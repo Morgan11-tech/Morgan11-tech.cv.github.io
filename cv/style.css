@@ -157,7 +157,7 @@ body{
  .resume .resume_right ul li .date{
     font-size: 16px;
     font-weight: 500;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
  }
 
  .resume .resume_right ul li .semi_bold{
@@ -168,7 +168,7 @@ body{
 
 
  .resume .resume_right ul li .info{
-    margin-bottom: 20px;
+    margin-bottom: 10px;
  }
 
  .resume .resume_right .resume_education ul li:before,
@@ -188,16 +188,4 @@ body{
     border: 2px solid #0bb5f4;
  }
 
- /* .resume .resume_right .resume_education ul li:after,
- .resume .resume_right .resume_achievements ul li:after
- .resume .resume_right .resume_workexp ul li:after,
- .resume .resume_right .resume_projects ul li:after,
- .resume .resume_right .resume_cocurricular ul li:after{
-    content: "";
-    position: absolute;
-    top: 14px;
-    left: -21px;
-    width: 2px;
-    height: 115px;
-    background:#0bb5f4;
- } */
+ 
